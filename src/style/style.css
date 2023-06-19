@@ -13,6 +13,9 @@ body {
   font-family: Arial, sans-serif;
   letter-spacing: 0.02em;
   padding-bottom: 15px;
+  background-image: url("/src/img/desktop-wallpaper-slava-ukraini-ukraine-aesthetic-stop-war-typography-slava-ukraini-no-war-make-love-yellow-war.jpg");
+  background-size:auto;
+  background-position: center;
  
 }
 
@@ -54,7 +57,7 @@ button {
 
 .wrapper-form {
   position: relative;
-  display: inline-block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
 }
