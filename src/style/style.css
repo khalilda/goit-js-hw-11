@@ -13,6 +13,9 @@ body {
   font-family: Arial, sans-serif;
   letter-spacing: 0.02em;
   padding-bottom: 15px;
+  background-image: url("/src/img/desktop-wallpaper-slava-ukraini-ukraine-aesthetic-stop-war-typography-slava-ukraini-no-war-make-love-yellow-war.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 button {
@@ -28,7 +31,7 @@ button {
   width: 100%;
   padding: 8px 0;
   text-align: center;
-  background-color: #3366ff;
+  background-color: red;
 }
 
 .search-form input {
@@ -64,7 +67,7 @@ button {
   display: grid;
   max-width: 1140px;
   grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
-  /* grid-auto-rows: 240px; */
+  
   grid-gap: 12px;
   justify-content: center;
   padding-top: 52px;
@@ -102,7 +105,7 @@ button {
   margin: 15px auto;
 
   color: #f2f2f2;
-  background-color: #3366ff;
+  background-color: red;
 }
 
 .is-active {
